@@ -1,0 +1,9 @@
+{
+    "Files": [
+        {
+            "FilePath": "GameFiles/game.exe",
+            "FileSize": 1234567,
+            "Sha256Hash": "hash-value-here"
+        }
+    ]
+}
