@@ -29,6 +29,16 @@
       "FilePath": "system\\L2ForecF.ffe",
       "FileSize": 3516,
       "Sha256Hash": "85d0daa44733bfc97bca3e1b4124c7287b213fd04fc8c321badc9b67e0cac4af"
+    },
+    {
+      "FilePath": "system\\L2PreCompiledShader.bin",
+      "FileSize": 45667,
+      "Sha256Hash": "eba16da4d9ee7ecd57c9f5deab6a76029d4dc02e68425010702a0f152cf1befd"
+    },
+    {
+      "FilePath": "system\\l2Second.log",
+      "FileSize": 246,
+      "Sha256Hash": "d4503ca972ddce19066f3096947916337e77c376a2d4f6a6382628b52050549e"
     }
   ]
 }
