@@ -19,6 +19,16 @@
       "FilePath": "l2.ini",
       "FileSize": 4144,
       "Sha256Hash": "9efedd5ab052c090c35651c3eafa53d6fcf0e5a4abe72d96f094d53da2381dc2"
+    },
+    {
+      "FilePath": "L2CompiledShader.bin",
+      "FileSize": 75140,
+      "Sha256Hash": "efde8174ad325b18d86158cf11a2c8e72476b80af1a01a88c0ef84bf1f995171"
+    },
+    {
+      "FilePath": "L2ForecF.ffe",
+      "FileSize": 3516,
+      "Sha256Hash": "85d0daa44733bfc97bca3e1b4124c7287b213fd04fc8c321badc9b67e0cac4af"
     }
   ]
 }
