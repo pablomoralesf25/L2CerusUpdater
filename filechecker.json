@@ -39,6 +39,11 @@
       "FilePath": "system\\l2Second.log",
       "FileSize": 246,
       "Sha256Hash": "d4503ca972ddce19066f3096947916337e77c376a2d4f6a6382628b52050549e"
+    },
+    {
+      "FilePath": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\NCsoft\\Lineage II\\system\\ActionName-e.dat",
+      "FileSize": 10672,
+      "Sha256Hash": "cbb026745d89e6017e65993eee4cbe7a6e16026959df515e39aa44e3949d5a6f"
     }
   ]
 }
