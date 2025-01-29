@@ -216,6 +216,11 @@
       "Sha256Hash": "5731f1cbee5e4d12b9309005f2c0aa65c31f49f41e307be7a9b45ea8c3c13752"
     },
     {
+      "FilePath": "system\\Helper.exe",
+      "FileSize": 88576,
+      "Sha256Hash": "4f3d532047a7d9b5f501dd1634854a170e6893a103d8da59208deddcceb4285e"
+    },
+    {
       "FilePath": "system\\Hennagrp-e.dat",
       "FileSize": 1968,
       "Sha256Hash": "837e1665358e510dbd8e36b5d71737717f894b9e71a8d06db8b68ba29a54a03c"
@@ -737,8 +742,8 @@
     },
     {
       "FilePath": "system\\vcruntime140_clr.dll",
-      "FileSize": 134656,
-      "Sha256Hash": "72b39e4e56d248c586cff6c8cf0687eec2947d3927cda0850e4e5444477e407d"
+      "FileSize": 110592,
+      "Sha256Hash": "a0adc862c003c205f6c8a3e750c0cb9f1d4b4851fdc55adc4cb1ba9cfc4623ee"
     },
     {
       "FilePath": "system\\VehiclePartsGrp.dat",
