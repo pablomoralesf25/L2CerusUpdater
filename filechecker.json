@@ -2,33 +2,293 @@
   "Files": [
     {
       "FilePath": "system\\ActionName-e.dat",
-      "FileSize": 10672,
-      "Sha256Hash": "cbb026745d89e6017e65993eee4cbe7a6e16026959df515e39aa44e3949d5a6f"
+      "FileSize": 10544,
+      "Sha256Hash": "771087ec1b5d7c1cb1e333bc55e270d14eca9b60c6f49be6135cfb3b93ace777"
+    },
+    {
+      "FilePath": "system\\additionaleffect.dat",
+      "FileSize": 304,
+      "Sha256Hash": "e8dceb3a7fb5a8879d2430104ec61fa6d7b8b98a7a370927675afee93deef087"
+    },
+    {
+      "FilePath": "system\\AdditionalItemgrp.dat",
+      "FileSize": 47408,
+      "Sha256Hash": "04157a394762113d03e4886f832244e647d181666a21972bc62a7235ea43ce58"
+    },
+    {
+      "FilePath": "system\\ALAudio.dll",
+      "FileSize": 150548,
+      "Sha256Hash": "059820ca892d239d6146101bf2a460340fb9b9c7b3b6d5092f26a820e8d0d8f6"
+    },
+    {
+      "FilePath": "system\\alaudio.int",
+      "FileSize": 2766,
+      "Sha256Hash": "c916602dcd6f6a46bbcedc7ade0527a168337de40fd7264ecf0282137b0b9a6c"
+    },
+    {
+      "FilePath": "system\\armorgrp.dat",
+      "FileSize": 419760,
+      "Sha256Hash": "c56d218c2a09237722e4b036bc8d2bdd27a3de28a8f567e7cd4ef779c2846cf3"
+    },
+    {
+      "FilePath": "system\\beecrypt.dll",
+      "FileSize": 188436,
+      "Sha256Hash": "4d66674cdda755992e0b236636485a8ecee7224243734aac416039c265359729"
+    },
+    {
+      "FilePath": "system\\bighead.int",
+      "FileSize": 1078,
+      "Sha256Hash": "2e46a1094e5a098a2ddc1a96de6d599a57099f0e01fee562457d189a163423d4"
+    },
+    {
+      "FilePath": "system\\CastleName-e.dat",
+      "FileSize": 1968,
+      "Sha256Hash": "3f8eaa175272d8e65570dcd89489fdd8c084dea23db2c49225494e8e3df6b5c5"
+    },
+    {
+      "FilePath": "system\\charcreategrp.dat",
+      "FileSize": 560,
+      "Sha256Hash": "6029ce524e5eae8641ac71947b0ff5e91c388a0e3ef0d3d71be21c8b4f1012b1"
+    },
+    {
+      "FilePath": "system\\chargrp.dat",
+      "FileSize": 6064,
+      "Sha256Hash": "1598335f5fb1c6875aa2dc90a22fdd272f2895d00f018b46314985bbe41d647f"
+    },
+    {
+      "FilePath": "system\\chatfilter.ini",
+      "FileSize": 374,
+      "Sha256Hash": "d8bf8ee1e737edca634cf583c556613f53167eb8badf90f78842211930ecb9a8"
+    },
+    {
+      "FilePath": "system\\ClassInfo-e.dat",
+      "FileSize": 2352,
+      "Sha256Hash": "e58bf46ff0fdfd1e606a9851016f5cc12edfc925248060db271dffbfbde2e66e"
+    },
+    {
+      "FilePath": "system\\Cloak.int",
+      "FileSize": 454,
+      "Sha256Hash": "4165d0593d8dc627e5bf90f10ce700958916fd7157d890abe212a11a39d35f70"
+    },
+    {
+      "FilePath": "system\\commandname-e.dat",
+      "FileSize": 1584,
+      "Sha256Hash": "8a4e7f11a4d6aae4461779bf55cfaf386d286cdc488ef485b05f5d29333b07a5"
+    },
+    {
+      "FilePath": "system\\Core.dll",
+      "FileSize": 958424,
+      "Sha256Hash": "125e4b38a0dc1f9e049cb5212cd17a0cd265404a88b92c0a23a6b2feac6c29a6"
+    },
+    {
+      "FilePath": "system\\Core.int",
+      "FileSize": 3428,
+      "Sha256Hash": "f4ae4b8dd230a085d0a032baa11719b6c765ad7863924d9711583ed9505a0651"
+    },
+    {
+      "FilePath": "system\\Core.u",
+      "FileSize": 72950,
+      "Sha256Hash": "e3734cbf4ba702db4ed44570f5d3a711b8cb5292a02c087407dba02b51ee1877"
+    },
+    {
+      "FilePath": "system\\CreditFont.gly",
+      "FileSize": 181800,
+      "Sha256Hash": "3cd03bf241ef34b8698cb03cb89d48bd0110ba797d94510987469fad8ff68a85"
+    },
+    {
+      "FilePath": "system\\creditgrp-e.dat",
+      "FileSize": 944,
+      "Sha256Hash": "79dbacc77bcc8fcede10e3f38c3151e088ae5b313d10ece86476be674fc151d3"
+    },
+    {
+      "FilePath": "system\\D3DDrv.dll",
+      "FileSize": 1426964,
+      "Sha256Hash": "3b6ec91f3ac09aeb3f2d6ebeae8987d6713179b6acc9e09ede673daf2512475c"
+    },
+    {
+      "FilePath": "system\\D3DDrv.int",
+      "FileSize": 422,
+      "Sha256Hash": "f1be03577498513fd73e6f227686c0b27fd73b55d203453bc3c579fc957e1c52"
+    },
+    {
+      "FilePath": "system\\defopenal32.dll",
+      "FileSize": 114708,
+      "Sha256Hash": "e433deb1edad3c16ef4b622c49ac89eb13f45b6cc022030e0a186fee0025af29"
+    },
+    {
+      "FilePath": "system\\dsetup.dll",
+      "FileSize": 5120,
+      "Sha256Hash": "805cabec81c2caa79efd630cc17b53a8de6a9fb3ed66e973933aaf8e4a1d405d"
+    },
+    {
+      "FilePath": "system\\Editor.u",
+      "FileSize": 587535,
+      "Sha256Hash": "b841123a383354e5ff1c5a6bdd1407dc51b44f9a1c41a3368c3c64488e7ae60d"
+    },
+    {
+      "FilePath": "system\\encvag.dll",
+      "FileSize": 150548,
+      "Sha256Hash": "c888278386ad6f171af5db05ab9d892e103fedf5fefa2c859634bae3206620e8"
+    },
+    {
+      "FilePath": "system\\Engine.dll",
+      "FileSize": 26599896,
+      "Sha256Hash": "37ee0f33fac40567700466b92ffb64baa87f5dc66113d71d69942984c16a9b3b"
+    },
+    {
+      "FilePath": "system\\Engine.int",
+      "FileSize": 6915,
+      "Sha256Hash": "ba7c6fae088b4f69d1d7ca37a13f8108629dfe5877a1984407634e6e713bb535"
+    },
+    {
+      "FilePath": "system\\Engine.u",
+      "FileSize": 2801129,
+      "Sha256Hash": "8d4977cbc748c0ef42528f18a5b425ee9119264f6d496ab27cce67aaf1e121cb"
+    },
+    {
+      "FilePath": "system\\EnterEventgrp.dat",
+      "FileSize": 6704,
+      "Sha256Hash": "a029c62ae244fc73827c4e24a4384ff8bcb2700f775c0053099bfaff80958d08"
+    },
+    {
+      "FilePath": "system\\Env.int",
+      "FileSize": 6710,
+      "Sha256Hash": "638b09916ef401fe9b5eae0e8f6972768bf36b2e63d9fa608bbe15864608d70f"
+    },
+    {
+      "FilePath": "system\\etcitemgrp.dat",
+      "FileSize": 168624,
+      "Sha256Hash": "912e56cd26f7fb5021f1da3f81ecc4d05dde52e5f6ca9f0305f7f2f764eb5c07"
+    },
+    {
+      "FilePath": "system\\EULA-e.dat",
+      "FileSize": 13744,
+      "Sha256Hash": "ec3d7152a0fe1e563c31cff1ad842b8e2fe1c1a77a077ca9f9c4b18edfb4866c"
+    },
+    {
+      "FilePath": "system\\exceptionminimapdata.dat",
+      "FileSize": 816,
+      "Sha256Hash": "1ed30acdf6a2333895589e2fb73edcd70b5f5c7d1e8b2d76d644101f38f1432a"
+    },
+    {
+      "FilePath": "system\\fire.dll",
+      "FileSize": 167936,
+      "Sha256Hash": "5ec9f3f4f29f800b889f775c5e779b63e5765077ae66d35d398446293b86f66e"
+    },
+    {
+      "FilePath": "system\\Fire.u",
+      "FileSize": 15482,
+      "Sha256Hash": "36eed86fda11bc76b6ac5d15ec9c232e92e5f53bc9b21f38ae2fd0ffef9441a4"
+    },
+    {
+      "FilePath": "system\\fmodex.dll",
+      "FileSize": 374804,
+      "Sha256Hash": "dc5ab263fa9def8006e76fab4eb5d28e6c6d9bbe60e98602f8b53594b0dbfcfe"
+    },
+    {
+      "FilePath": "system\\GameGuard.des",
+      "FileSize": 297665,
+      "Sha256Hash": "128c11257840a818f889c8423ff8f599d8276f45511a8762900f1d821ef6bfc0"
+    },
+    {
+      "FilePath": "system\\GamePlay.u",
+      "FileSize": 207796,
+      "Sha256Hash": "4b88789ff799bf7c8230bfce05b2475ebf5543f00062fce8cc032b96b4188ba6"
+    },
+    {
+      "FilePath": "system\\gametip-e.dat",
+      "FileSize": 17712,
+      "Sha256Hash": "0c61616ef83eb4a9135eba276be68043fb76febae7b66b8b61c1a3f195dcbb8c"
+    },
+    {
+      "FilePath": "system\\goodsicon.dat",
+      "FileSize": 176,
+      "Sha256Hash": "e1d14c1b492273932f868cd3ef19e7c227c4b05e5e82c2600fac92d9b75c36c6"
+    },
+    {
+      "FilePath": "system\\Hair.int",
+      "FileSize": 110933,
+      "Sha256Hash": "c5e404054bbc2e0bd88848e33a706e7ec2deb61e27f29034d579a0982b1cbe73"
+    },
+    {
+      "FilePath": "system\\Hairaccessorylocgrp.dat",
+      "FileSize": 4656,
+      "Sha256Hash": "5731f1cbee5e4d12b9309005f2c0aa65c31f49f41e307be7a9b45ea8c3c13752"
+    },
+    {
+      "FilePath": "system\\Hennagrp-e.dat",
+      "FileSize": 1968,
+      "Sha256Hash": "837e1665358e510dbd8e36b5d71737717f894b9e71a8d06db8b68ba29a54a03c"
+    },
+    {
+      "FilePath": "system\\huntingzone-e.dat",
+      "FileSize": 7088,
+      "Sha256Hash": "c1bce594694563185c79e589c31f83c4fd3134b811e4b4f86f2a7744dbe6af47"
+    },
+    {
+      "FilePath": "system\\IFC23.DLL",
+      "FileSize": 233492,
+      "Sha256Hash": "2a4751b579ab8b68585d61dcef08fa6e9f5b853ce429b026e18a83ae1960fb1c"
+    },
+    {
+      "FilePath": "system\\instantzonedata-e.dat",
+      "FileSize": 1328,
+      "Sha256Hash": "447d2fca5c90f3141c88595d7330125f7d789ddd5c340fad4f5aecd7c59a9abd"
+    },
+    {
+      "FilePath": "system\\Interface.u",
+      "FileSize": 4706060,
+      "Sha256Hash": "3a3132fc6da57c399caf4918aff214e31c36ce297bf32de5ed7d21519e477d1f"
+    },
+    {
+      "FilePath": "system\\Interface.xdat",
+      "FileSize": 1453784,
+      "Sha256Hash": "923b75aa83ea2a1ebc460d588e4c8176bfce36dfa8fb1c181531df412dad10a7"
+    },
+    {
+      "FilePath": "system\\IpDrv.dll",
+      "FileSize": 303124,
+      "Sha256Hash": "92593b712ca97c20ec3d5053b22fbaa055acd733d4d8e7652f71c13c211137e1"
+    },
+    {
+      "FilePath": "system\\IpDrv.int",
+      "FileSize": 1840,
+      "Sha256Hash": "3100cd32af272ba43a0046e235da5970bbf502eff7c0fab1dae10f501875cd66"
+    },
+    {
+      "FilePath": "system\\IpDrv.u",
+      "FileSize": 73672,
+      "Sha256Hash": "b9563b6e2c1e4a1be5a8ae1184bb04f67c555625753587f2de58653c885ed099"
     },
     {
       "FilePath": "system\\itemname-e.dat",
-      "FileSize": 542640,
-      "Sha256Hash": "9e423c3a37ed38a8456c7881b51babbee1efbba6940fad26aa26cdc4ea3dc562"
+      "FileSize": 545840,
+      "Sha256Hash": "633b048f87f294d36ef69cd8637c7658f8b3f12fc0ab1cfd69e386aceb891003"
     },
     {
       "FilePath": "system\\L2.bin",
-      "FileSize": 2213336,
-      "Sha256Hash": "7ebb5678b4e5efa2a0f17a17cd878ca9909dd20916ff04bd0b7540ade767ddef"
+      "FileSize": 2210776,
+      "Sha256Hash": "420d5c92e9d6503da93be0cc97ca5e8fd49fa3ab52f8b73b124062fd013747ce"
     },
     {
       "FilePath": "system\\l2.exe",
-      "FileSize": 432386,
-      "Sha256Hash": "a724ae516a4be79918ea83b2d9c1ebee1e50e3c02d26f5cae15f00761a1aaeee"
+      "FileSize": 426496,
+      "Sha256Hash": "43ba50208e766ed5fead5ed10f4b69eb7e56b4800a4e7c6feb4f060ac64f7fec"
     },
     {
       "FilePath": "system\\l2.ini",
-      "FileSize": 4144,
-      "Sha256Hash": "9efedd5ab052c090c35651c3eafa53d6fcf0e5a4abe72d96f094d53da2381dc2"
+      "FileSize": 3888,
+      "Sha256Hash": "a0046af169f34ddf365071c5f8a48e4035bd597144bd74a94379fc9fbf1a80c4"
+    },
+    {
+      "FilePath": "system\\l2.int",
+      "FileSize": 163,
+      "Sha256Hash": "9e0b0d9095105790c51f1c9337a812cbc3a13983f2d3c8c73d3ad9a0666db010"
     },
     {
       "FilePath": "system\\L2CompiledShader.bin",
-      "FileSize": 75140,
-      "Sha256Hash": "efde8174ad325b18d86158cf11a2c8e72476b80af1a01a88c0ef84bf1f995171"
+      "FileSize": 111190,
+      "Sha256Hash": "2e691d84077b34cef8ef72fa4a4f6fdc4f3709b68f6993e854e99597b0353437"
     },
     {
       "FilePath": "system\\L2ForecF.ffe",
@@ -38,12 +298,507 @@
     {
       "FilePath": "system\\L2PreCompiledShader.bin",
       "FileSize": 45667,
-      "Sha256Hash": "eba16da4d9ee7ecd57c9f5deab6a76029d4dc02e68425010702a0f152cf1befd"
+      "Sha256Hash": "dfccdfd00e991f2d312109d2c38b5a984f37e03662116ef581bac603c1ddcbdb"
     },
     {
-      "FilePath": "system\\l2Second.log",
-      "FileSize": 246,
-      "Sha256Hash": "d4503ca972ddce19066f3096947916337e77c376a2d4f6a6382628b52050549e"
+      "FilePath": "system\\largefont-e.gly",
+      "FileSize": 181800,
+      "Sha256Hash": "42419af2a4995db6f6abc697799d1051f2c8ef60d45888df6d336d55e526c6bf"
+    },
+    {
+      "FilePath": "system\\LargeFont.gly",
+      "FileSize": 185632,
+      "Sha256Hash": "f6ea168898793c9923b4af54883ac564d09afc5520e6afdc3bb37bce71dfb819"
+    },
+    {
+      "FilePath": "system\\Lineage2us.ini",
+      "FileSize": 557,
+      "Sha256Hash": "77b0d4b111704c1f3439c3681ed47f6de51e5cc4fcbeb74d84ac03cc8e97db57"
+    },
+    {
+      "FilePath": "system\\LineageCreature.dll",
+      "FileSize": 116756,
+      "Sha256Hash": "e28d49d1bf8670ce0c7b94c7c6d4a556d5eed52980c1f55128a94953a6c06d89"
+    },
+    {
+      "FilePath": "system\\LineageCreature.u",
+      "FileSize": 13010,
+      "Sha256Hash": "13368122595058102d1c02d0b635182cd91723250a1f7aa2fae9d2f59264c85d"
+    },
+    {
+      "FilePath": "system\\LineageDeco.u",
+      "FileSize": 6813,
+      "Sha256Hash": "f746a16798530ba325a80f3ed909478b56fb888724c2b9adb8248b75097060ad"
+    },
+    {
+      "FilePath": "system\\LineageEffect.u",
+      "FileSize": 6841237,
+      "Sha256Hash": "71a99e0579771ba690ee1195401d13f15d3d39717140d0472887c73e56311e5b"
+    },
+    {
+      "FilePath": "system\\LineageMonster.int",
+      "FileSize": 611758,
+      "Sha256Hash": "7a5e1c0f539522f81e23a05f538f0b3175f468917421970ce714913f6499d957"
+    },
+    {
+      "FilePath": "system\\LineageMonster.u",
+      "FileSize": 250573,
+      "Sha256Hash": "e0a446d6536b43ffae9f9141b87ad197c441d92dcccc929777b752ca11d35852"
+    },
+    {
+      "FilePath": "system\\LineageMonster2.int",
+      "FileSize": 224753,
+      "Sha256Hash": "2189b31db3b0dee2f65c79041fd741ff0f6a92dcef932b7e4fa6600164a66cb8"
+    },
+    {
+      "FilePath": "system\\LineageMonster2.u",
+      "FileSize": 180861,
+      "Sha256Hash": "44ab0d6b7b3bc7cc487ab3ddb5906040009473ea0c07a066ad537ecfc9c9544c"
+    },
+    {
+      "FilePath": "system\\LineageMonster3.int",
+      "FileSize": 87459,
+      "Sha256Hash": "906e74776071e2a1bee9aa18e62dff2821ab77f5c0ede4b1dc36ebd02c7ae422"
+    },
+    {
+      "FilePath": "system\\LineageMonster3.u",
+      "FileSize": 156830,
+      "Sha256Hash": "14427531daa0a7fa2835d46becc691682fe8eca1895bf18714f945a013672cd0"
+    },
+    {
+      "FilePath": "system\\LineageMonster4.int",
+      "FileSize": 201664,
+      "Sha256Hash": "43e31b1e53408e8ee56945708d7a0955b538d7df5e3bd9cc07120af4e0b2ef40"
+    },
+    {
+      "FilePath": "system\\LineageMonster4.u",
+      "FileSize": 210329,
+      "Sha256Hash": "fe5fe78729f3b93c85f7e6abc9e67329616d0b2f6832a897a4acda96583ac824"
+    },
+    {
+      "FilePath": "system\\lineagemonster5.int",
+      "FileSize": 81781,
+      "Sha256Hash": "7c052514e3bdb16219fc487b4e893deeb99ec2b84729daf26245106a794d1a87"
+    },
+    {
+      "FilePath": "system\\LineageMonster5.u",
+      "FileSize": 137581,
+      "Sha256Hash": "43d7ad368fde33f453a29bc8de88dc0ea06a4f7c40f1daff414c96ef2e85b538"
+    },
+    {
+      "FilePath": "system\\lineagemonster6.int",
+      "FileSize": 10243,
+      "Sha256Hash": "d9de2155d6364f08f50aad5fadd3e5c42a04649bbc64e6c949dcb5749ef006ac"
+    },
+    {
+      "FilePath": "system\\LineageMonster6.u",
+      "FileSize": 5513,
+      "Sha256Hash": "42fb3d3b776dfaeba1c308651271556cc4288bbee3ecdfef54339c7be4a767cc"
+    },
+    {
+      "FilePath": "system\\LineageNpc.int",
+      "FileSize": 125536,
+      "Sha256Hash": "297b0a114e07df05e282d9579c9709a727416ff87f34885c51af6af8ac7c6fea"
+    },
+    {
+      "FilePath": "system\\LineageNpc.u",
+      "FileSize": 128317,
+      "Sha256Hash": "8170781beb2806a48bf237c5a7175e430c51c3b352ae339ebed7b6b4ee51d51c"
+    },
+    {
+      "FilePath": "system\\LineageNpc2.int",
+      "FileSize": 148140,
+      "Sha256Hash": "76bf0450a46bc16d652d44ae33775e895ed3d7d64989459de1d67c708581ea15"
+    },
+    {
+      "FilePath": "system\\LineageNpc2.u",
+      "FileSize": 486941,
+      "Sha256Hash": "674485a6ba5cf6b469e340df79321883e8312f54e767b7f679cfdfead5c79848"
+    },
+    {
+      "FilePath": "system\\lineagenpcev.int",
+      "FileSize": 6397,
+      "Sha256Hash": "e3a8f026f7ecdc137014f24dd63677f2cdc8c25e9df58723715e32c68c4bd2f8"
+    },
+    {
+      "FilePath": "system\\LineageNpcEv.u",
+      "FileSize": 276667,
+      "Sha256Hash": "dd7d3bdb61026ea6802f34fd70b2acb932816e13952723698237d1a506681fdb"
+    },
+    {
+      "FilePath": "system\\LineageSceneInfo.u",
+      "FileSize": 121253,
+      "Sha256Hash": "3c65ed4a38d186dfe5e218791ab13e98f58b0f09f2888689444776533bb7c3d6"
+    },
+    {
+      "FilePath": "system\\LineageSkillEffect.u",
+      "FileSize": 582788,
+      "Sha256Hash": "245f4784b8f619abd720a77d36d0d687b23eeeba15f7d4ceec5f1adb65217005"
+    },
+    {
+      "FilePath": "system\\LineageVehicle.u",
+      "FileSize": 15487,
+      "Sha256Hash": "73c3024db3ebb317e57dfc3f089e4f3fff6891a5798373b14a4886410712ea7a"
+    },
+    {
+      "FilePath": "system\\LineageWarrior.int",
+      "FileSize": 356009,
+      "Sha256Hash": "e3680a49d4279bc90ffca6b79e22eaba1d01899ceda5333f2fcd74b407622ba9"
+    },
+    {
+      "FilePath": "system\\LineageWarrior.u",
+      "FileSize": 31365,
+      "Sha256Hash": "7b504cc3b51af53220b86f09255062a1879b5da77393e6cc62b20767ba9eacb2"
+    },
+    {
+      "FilePath": "system\\localization.ini",
+      "FileSize": 5617,
+      "Sha256Hash": "661cce40d6557878d6c3da7b5a5dde279ebc0ee1a570b5b81a48318275f3482c"
+    },
+    {
+      "FilePath": "system\\logongrp.dat",
+      "FileSize": 176,
+      "Sha256Hash": "79d26187f40a99d224c567a93435f8fb8df4836f2d0a6401fb6e8a45b62d3a0b"
+    },
+    {
+      "FilePath": "system\\mantleexception.dat",
+      "FileSize": 1072,
+      "Sha256Hash": "f967f6e809dbfdc466597bdb1a6a21408ba9876de796cd56b779181d139e5761"
+    },
+    {
+      "FilePath": "system\\Microsoft.VC80.OpenMP.manifest",
+      "FileSize": 471,
+      "Sha256Hash": "ff6e47509864fab8ef22c99190bd504a69290b6f912e5c1dec821f1e53310ae8"
+    },
+    {
+      "FilePath": "system\\mobskillanimgrp.dat",
+      "FileSize": 123056,
+      "Sha256Hash": "d94bcb1043fcf7a558c723481e72a23baac05d70cc8d9a7d1e535eb7d016f834"
+    },
+    {
+      "FilePath": "system\\msxml4.dll",
+      "FileSize": 1275412,
+      "Sha256Hash": "8f49c37b4e04a13d15481d9cbca1b82fe1a5a13766df394f5866fad0b6cd5ef6"
+    },
+    {
+      "FilePath": "system\\msxml4a.dll",
+      "FileSize": 44564,
+      "Sha256Hash": "51e38d41a2bc89e65896a48e348ad35d4b12348a665197cadc95fc87fa4a9564"
+    },
+    {
+      "FilePath": "system\\msxml4r.dll",
+      "FileSize": 82452,
+      "Sha256Hash": "b9d07b33cae92176bd0f31a5aaf8bea5b6362fdc59e6a43b82f8b43db9f6cca9"
+    },
+    {
+      "FilePath": "system\\musicinfo.dat",
+      "FileSize": 5424,
+      "Sha256Hash": "74e16e46df68b5e2b1d142d64774c43845c5a2d91c913fc108527ab46b2fc9e0"
+    },
+    {
+      "FilePath": "system\\Npcgrp.dat",
+      "FileSize": 414256,
+      "Sha256Hash": "795ca1468b10b9bd857f61a9c1912f7cfa335b7c7463ff7e3fc6e66f6e4a38e4"
+    },
+    {
+      "FilePath": "system\\NpcName-e.dat",
+      "FileSize": 81072,
+      "Sha256Hash": "38c51409831b891afa0616a896b15b3fb5b114bd1c0e0ef8ad2700b949fd7016"
+    },
+    {
+      "FilePath": "system\\NpcString-e.dat",
+      "FileSize": 106288,
+      "Sha256Hash": "250678dd336d9b3c5bf6326525f7a5dbfa1a6e4f0f96d7b35389d55d78a75030"
+    },
+    {
+      "FilePath": "system\\npkcrypt.dll",
+      "FileSize": 409700,
+      "Sha256Hash": "9feea28516f7c2dc1486cc99fa2264f107b31b6336c6ad0454000e1912d243f2"
+    },
+    {
+      "FilePath": "system\\npkcrypt.sys",
+      "FileSize": 23217,
+      "Sha256Hash": "f556d97050aa9d4573bca01316a1a84b70668694ef759c2576b5af4013870a00"
+    },
+    {
+      "FilePath": "system\\npkcrypt.vxd",
+      "FileSize": 26344,
+      "Sha256Hash": "444e724ae455d337ed25f9b143b998092773904b145f125c9488856c2d7843f5"
+    },
+    {
+      "FilePath": "system\\npkcusb.sys",
+      "FileSize": 15472,
+      "Sha256Hash": "7c4aed917ce3b2ac21e233a37db2b70aa1fe8d7f1508428a5a213258d634e179"
+    },
+    {
+      "FilePath": "system\\npkpdb.dll",
+      "FileSize": 53268,
+      "Sha256Hash": "4d6195979286e35706769fd4420f14e947e489711d4ffca8c1124c5d8d1da4dd"
+    },
+    {
+      "FilePath": "system\\NSplash.dll",
+      "FileSize": 86036,
+      "Sha256Hash": "3ba27a6b1ad5d60d0b71d35f3b3851c66bc84cf740e15313a0327892dd7c24fa"
+    },
+    {
+      "FilePath": "system\\nwindow.dll",
+      "FileSize": 14199828,
+      "Sha256Hash": "891cc62e34dcaa4b71c1eeb68a0573ec8bb2ab68ea74eff0f29672eb1ff33088"
+    },
+    {
+      "FilePath": "system\\NWindow.u",
+      "FileSize": 527475,
+      "Sha256Hash": "f46196cad4d66b228cec71e9e24aabdf224353f00ffcd7496735a9953ec674bc"
+    },
+    {
+      "FilePath": "system\\Obscene-e.dat",
+      "FileSize": 304,
+      "Sha256Hash": "c32e793ee0ce2758166634c26f34390ad6c24683fd4f3d74264940dfec20aef4"
+    },
+    {
+      "FilePath": "system\\ogg.dll",
+      "FileSize": 61460,
+      "Sha256Hash": "732ee0dc9122c14aab0b65818adfe255ea3c35458e5796d5268e7ac773b534e8"
+    },
+    {
+      "FilePath": "system\\Option.ini",
+      "FileSize": 1743,
+      "Sha256Hash": "f5412765223b6a79599881bb16e65c36449dc509d57ee9a4e3f05e8c50571b21"
+    },
+    {
+      "FilePath": "system\\optiondata_client-e.dat",
+      "FileSize": 168624,
+      "Sha256Hash": "6668acd9c8c8230d7db80dbb7a516e35ee29a780b2c8a45b0d38e3c60a0a110f"
+    },
+    {
+      "FilePath": "system\\posteffectdata.dat",
+      "FileSize": 304,
+      "Sha256Hash": "83ca8dc9c3d2702c72262eaedbc9283d493f585208ab2ce7214d223eaedfff8b"
+    },
+    {
+      "FilePath": "system\\Predefinedshader.bin",
+      "FileSize": 68625,
+      "Sha256Hash": "84d15f09d17ab52127fb09ac16ea8415eaeb1e0205657d488c53868ded83de3e"
+    },
+    {
+      "FilePath": "system\\productname-e.dat",
+      "FileSize": 15152,
+      "Sha256Hash": "61dba9f8ffe134af38c768fd0a6581728281e88c87b836c75d85c3750406dc6a"
+    },
+    {
+      "FilePath": "system\\questname-e.dat",
+      "FileSize": 291632,
+      "Sha256Hash": "5f471c7d87fe59ea516ef5727a673630b233a7ee956f5ddd02b59eefb16c3c57"
+    },
+    {
+      "FilePath": "system\\raiddata-e.dat",
+      "FileSize": 34352,
+      "Sha256Hash": "3e78b019a136789df0c763720c4c23d13b5d6ff73dc3bce7f16e3a161cedb97e"
+    },
+    {
+      "FilePath": "system\\Recipe-c.dat",
+      "FileSize": 28336,
+      "Sha256Hash": "4fa8b012d70807e0f12060f8b06d3e1fd73e73a6402c1f4f3d6f6e43620bec4b"
+    },
+    {
+      "FilePath": "system\\ridedata.dat",
+      "FileSize": 816,
+      "Sha256Hash": "1d6a8cf249ff62c67db954e23fb473c48de93a27092dcb37b0ef1db72e7244f6"
+    },
+    {
+      "FilePath": "system\\sceneplayerdata.dat",
+      "FileSize": 816,
+      "Sha256Hash": "9400bc30b4f8d6a38b2ccbae4763f27ce6c73aa7e63c7e0efc0eb07652d5c340"
+    },
+    {
+      "FilePath": "system\\servername-e.dat",
+      "FileSize": 1072,
+      "Sha256Hash": "e1e9dbdbeaa26b4606d27240d515521387cff13a8d03f4107728ecc2d0fda6e9"
+    },
+    {
+      "FilePath": "system\\ShortcutAlias.dat",
+      "FileSize": 2096,
+      "Sha256Hash": "8919c5616087861f61ec72c11b72641c158ab574208f9a54a26e654c8d702126"
+    },
+    {
+      "FilePath": "system\\skillgrp.dat",
+      "FileSize": 366640,
+      "Sha256Hash": "59a5f18d826c254dc95eb9fdb66d7226548d7a1f47bf9679cc2d679027b0efd3"
+    },
+    {
+      "FilePath": "system\\skillname-e.dat",
+      "FileSize": 740912,
+      "Sha256Hash": "373ceb0552334526816ea5a01d798442bfa0b76fba466b1904821c741c584fe8"
+    },
+    {
+      "FilePath": "system\\skillsoundgrp.dat",
+      "FileSize": 103856,
+      "Sha256Hash": "c3496382d8047dbb052bce04c59ac372bd58b8615ad322416af8fd4fabe7772d"
+    },
+    {
+      "FilePath": "system\\skillsoundsource.dat",
+      "FileSize": 13488,
+      "Sha256Hash": "b03e2cdf13f347dda189dc984cf83fdd1c801c0d7d28cabfff7a8be4fc0952f9"
+    },
+    {
+      "FilePath": "system\\smallfont-e.gly",
+      "FileSize": 181800,
+      "Sha256Hash": "94dd0f8c9055c7ea7e57e0c1c01cd5f61479492d4f9041e7c6eedc36012ea300"
+    },
+    {
+      "FilePath": "system\\SmallFont.gly",
+      "FileSize": 181800,
+      "Sha256Hash": "ee91bfbde62c44b32a30d314a372f35e45c309d3b7c3982da5ac9d63a66d883b"
+    },
+    {
+      "FilePath": "system\\soulshot.int",
+      "FileSize": 1900,
+      "Sha256Hash": "af12133669de495b2c4ad43f136f52eb75a8800655f08e29b998e7d7fdf07d4d"
+    },
+    {
+      "FilePath": "system\\staticobject-e.dat",
+      "FileSize": 5680,
+      "Sha256Hash": "81418a1a809052f59bd21f54313f9e95c6a5790b4408829d5b646c0f1ae0dc90"
+    },
+    {
+      "FilePath": "system\\SymbolName-e.dat",
+      "FileSize": 304,
+      "Sha256Hash": "e0f8fbad6dab49596c0b58c6f9ba8e21c771ac54abb6d72a0c2fc875c0de2911"
+    },
+    {
+      "FilePath": "system\\sysstring-e.dat",
+      "FileSize": 22064,
+      "Sha256Hash": "86aea9fbcd8a7ebbc78172dd047094417030164648f95e2009468093618c65a3"
+    },
+    {
+      "FilePath": "system\\systemmsg-e.dat",
+      "FileSize": 80432,
+      "Sha256Hash": "506550a1a02066f7c390da49f2416bce9083d25ba160a3822e39841cc1f8db90"
+    },
+    {
+      "FilePath": "system\\s_info.ini",
+      "FileSize": 57,
+      "Sha256Hash": "e2e782be71d5ee63e01a38744a21ca4ebf48309dd262e3cab38c939f881ee0ee"
+    },
+    {
+      "FilePath": "system\\TimeEnv0.int",
+      "FileSize": 25208,
+      "Sha256Hash": "520f286a5b55af7b08eb9eb26df5c2d1c27fdfc96e9f33f60a19a44bba9e965a"
+    },
+    {
+      "FilePath": "system\\TimeEnv1.int",
+      "FileSize": 26359,
+      "Sha256Hash": "4bfad091ae2e938b8b240f8ad0cd6a23600d495a1503ba25ae9e2f20d82145e3"
+    },
+    {
+      "FilePath": "system\\TimeEnv2.int",
+      "FileSize": 25196,
+      "Sha256Hash": "a7d68b713206c0fd1a71af3fcf06ec2d90b619080d1bf645d6fe66323c137e77"
+    },
+    {
+      "FilePath": "system\\TimeEnv3.int",
+      "FileSize": 26021,
+      "Sha256Hash": "76f42733f4e14cab96cb577d97825c857b0a5ed17a5297a7dcbb21901f211b35"
+    },
+    {
+      "FilePath": "system\\transformdata.dat",
+      "FileSize": 1456,
+      "Sha256Hash": "75e17b694855eb7f8a49df349689c8c6437c7f244aa88149e9fb01286f6cef2e"
+    },
+    {
+      "FilePath": "system\\TTFontInfo.ini",
+      "FileSize": 795,
+      "Sha256Hash": "23dc2fda01d6bf08660dc659c3ba125b145e0a34e6fc15318085d7c3b18b2f7f"
+    },
+    {
+      "FilePath": "system\\UDebugMenu.u",
+      "FileSize": 232414,
+      "Sha256Hash": "bdb3249c66a1fbbf0235270520ce148401db547506051e05764df5d8a399b777"
+    },
+    {
+      "FilePath": "system\\unichat.dll",
+      "FileSize": 45568,
+      "Sha256Hash": "07e1486d6c212826be3a53fec21d03a4542e488aa4dfd8250864d593c098a0cf"
+    },
+    {
+      "FilePath": "system\\user.ini",
+      "FileSize": 4912,
+      "Sha256Hash": "6d6fb8e33d3f7e250ebdba56db25834a145100e6301533bdf9891919c7509639"
+    },
+    {
+      "FilePath": "system\\UWindow.u",
+      "FileSize": 653179,
+      "Sha256Hash": "fe6ccce44bd6889152efc07ecbf70090efa5bf05f0b55fe63332340d3382d662"
+    },
+    {
+      "FilePath": "system\\variationeffectgrp-e.dat",
+      "FileSize": 1840,
+      "Sha256Hash": "b3d4468ab81316011f80f6aaed03243f0fa87cad68a4eb076741996e46e9943d"
+    },
+    {
+      "FilePath": "system\\vcomp.dll",
+      "FileSize": 65556,
+      "Sha256Hash": "2942acc51829c5fce173a6d5ea89ba8b86773ad6dfe944b8548258a7c9dd05d1"
+    },
+    {
+      "FilePath": "system\\VehiclePartsGrp.dat",
+      "FileSize": 560,
+      "Sha256Hash": "a0d8dd73fc7b3324e2fb4516ebdb7435b0dcdfce8bc77b3076b66a793bb14b05"
+    },
+    {
+      "FilePath": "system\\vorbis.dll",
+      "FileSize": 249876,
+      "Sha256Hash": "5548137178bc2276043f525d4115b4f433bf89437952f352203cd5a58fabe820"
+    },
+    {
+      "FilePath": "system\\vorbisfile.dll",
+      "FileSize": 106516,
+      "Sha256Hash": "1e05684598d59b89c38ff9e8857bb6956620eaf4ca486b0b1e3796b59fc1655b"
+    },
+    {
+      "FilePath": "system\\weapongrp.dat",
+      "FileSize": 249264,
+      "Sha256Hash": "b62ad651c7082dd9d48e12881f28e89e5b371bdcde3f60b849160532791c5bb6"
+    },
+    {
+      "FilePath": "system\\Wform.bm",
+      "FileSize": 527005,
+      "Sha256Hash": "c52f1782a62f0c5c107c9d6c76218536110aca674ad30c3498f6c19faf9bcf0a"
+    },
+    {
+      "FilePath": "system\\Window.dll",
+      "FileSize": 508948,
+      "Sha256Hash": "ef0a9bf120cd8fe600b2572d3c9e5648a411c4c6975747ee4821155a618758d1"
+    },
+    {
+      "FilePath": "system\\Window.int",
+      "FileSize": 2337,
+      "Sha256Hash": "fb33125c73d7258e7aab9be5f06961ebf907a694eb5f74c2a2c1d166ff1b7243"
+    },
+    {
+      "FilePath": "system\\WindowsInfo.ini",
+      "FileSize": 3091,
+      "Sha256Hash": "efb5670d5cb34addd7799ce75fdf656341ffada34dca6c8d2af6ea1c55a3f9b8"
+    },
+    {
+      "FilePath": "system\\WinDrv.dll",
+      "FileSize": 214548,
+      "Sha256Hash": "1a557cf195fdab1b74c0ac00e6244a0f28580d4d9802b0581aeb3f88d8467fe5"
+    },
+    {
+      "FilePath": "system\\WinDrv.int",
+      "FileSize": 729,
+      "Sha256Hash": "1f94173c9a360857f5f39cefc77c9b23823462d21ce418d201c7945c0ffb62bf"
+    },
+    {
+      "FilePath": "system\\wrap_oal.dll",
+      "FileSize": 409620,
+      "Sha256Hash": "7bce7f6198bc90e0ec24e0455f7407069364113f1d2cc339e22932ec0ace7b83"
+    },
+    {
+      "FilePath": "system\\zonename-e.dat",
+      "FileSize": 8752,
+      "Sha256Hash": "42da8270101a80e5f74d0ad93c5537f2348b91592bd462284746248f1178dc6e"
     }
   ]
 }
