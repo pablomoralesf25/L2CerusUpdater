@@ -476,11 +476,6 @@
       "Sha256Hash": "d94bcb1043fcf7a558c723481e72a23baac05d70cc8d9a7d1e535eb7d016f834"
     },
     {
-      "FilePath": "system\\msvcr140d.dll",
-      "FileSize": 225280,
-      "Sha256Hash": "506f2203679a7cd1e9db5b128e7aa6a339676195429e8358052919a97f22d152"
-    },
-    {
       "FilePath": "system\\msxml4.dll",
       "FileSize": 1275412,
       "Sha256Hash": "8f49c37b4e04a13d15481d9cbca1b82fe1a5a13766df394f5866fad0b6cd5ef6"
@@ -744,6 +739,11 @@
       "FilePath": "system\\vcomp.dll",
       "FileSize": 65556,
       "Sha256Hash": "2942acc51829c5fce173a6d5ea89ba8b86773ad6dfe944b8548258a7c9dd05d1"
+    },
+    {
+      "FilePath": "system\\vcruntime140_clr.dll",
+      "FileSize": 108032,
+      "Sha256Hash": "0715b0854903cd680b26e96c3662dbc1f3fe97ddb807714fc4c547f305d52311"
     },
     {
       "FilePath": "system\\VehiclePartsGrp.dat",
