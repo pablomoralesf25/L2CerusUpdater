@@ -477,8 +477,8 @@
     },
     {
       "FilePath": "system\\msvcr140d.dll",
-      "FileSize": 107520,
-      "Sha256Hash": "4d77ba2d8ef3cfd9ca533f65e56bbd048f6664d691ba85c671b5556e4733ce64"
+      "FileSize": 225280,
+      "Sha256Hash": "506f2203679a7cd1e9db5b128e7aa6a339676195429e8358052919a97f22d152"
     },
     {
       "FilePath": "system\\msxml4.dll",
