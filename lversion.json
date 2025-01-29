@@ -1,10 +1,4 @@
 {
-    "Version": "1.0.0",
-    "Files": [
-        {
-            "FilePath": "launcher/L2Updater.exe",
-            "FileSize": 0,  // We'll update this with actual size
-            "Sha256Hash": "" // We'll update this with actual hash
-        }
-    ]
+  "Version": "1.0.1",
+  "FilePath": "/launcher/L2Updater.exe"
 }
