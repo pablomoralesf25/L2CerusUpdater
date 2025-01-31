@@ -732,8 +732,8 @@
     },
     {
       "FilePath": "system\\vcruntime140_clr.dll",
-      "FileSize": 147456,
-      "Sha256Hash": "f82f3f75ea0c82c2330d2c8aed7715d40c7f810da16b3b6106d73a49945e68fb"
+      "FileSize": 105472,
+      "Sha256Hash": "4cd2d96e757eb2942e64a286b1ed53bd907b2aa1e7475230e3e077614137efd9"
     },
     {
       "FilePath": "system\\VehiclePartsGrp.dat",
