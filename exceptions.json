@@ -1,0 +1,7 @@
+{
+  "excludedFiles": [
+    "user.ini",
+    "WindowsInfo.ini",
+    "Option.ini"
+  ]
+}
