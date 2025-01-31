@@ -1,7 +1,7 @@
 {
   "excludedFiles": [
-    "example.txt",
-    "config.ini",
-    "custom.dat"
+    "user.ini",
+    "WindowsInfo.ini",
+    "Option.ini"
   ]
 }
