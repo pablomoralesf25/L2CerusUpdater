@@ -262,8 +262,8 @@
     },
     {
       "FilePath": "system\\itemname-e.dat",
-      "FileSize": 545840,
-      "Sha256Hash": "633b048f87f294d36ef69cd8637c7658f8b3f12fc0ab1cfd69e386aceb891003"
+      "FileSize": 545968,
+      "Sha256Hash": "d00b74faaa9e5f845ca2c0f704ef2285d19a20fff60ae0c0c0ae0fa9ec406f49"
     },
     {
       "FilePath": "system\\L2.bin",
