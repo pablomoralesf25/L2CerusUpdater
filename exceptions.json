@@ -1,0 +1,7 @@
+{
+  "excludedFiles": [
+    "example.txt",
+    "config.ini",
+    "custom.dat"
+  ]
+}
