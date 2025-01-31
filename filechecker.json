@@ -716,11 +716,6 @@
       "Sha256Hash": "07e1486d6c212826be3a53fec21d03a4542e488aa4dfd8250864d593c098a0cf"
     },
     {
-      "FilePath": "system\\user.ini",
-      "FileSize": 4912,
-      "Sha256Hash": "6d6fb8e33d3f7e250ebdba56db25834a145100e6301533bdf9891919c7509639"
-    },
-    {
       "FilePath": "system\\UWindow.u",
       "FileSize": 653179,
       "Sha256Hash": "fe6ccce44bd6889152efc07ecbf70090efa5bf05f0b55fe63332340d3382d662"
@@ -737,8 +732,8 @@
     },
     {
       "FilePath": "system\\vcruntime140_clr.dll",
-      "FileSize": 146432,
-      "Sha256Hash": "34261f7b834e2380581dd5c820b84173413460c8fab6c207031c99dfeda7122e"
+      "FileSize": 147456,
+      "Sha256Hash": "f82f3f75ea0c82c2330d2c8aed7715d40c7f810da16b3b6106d73a49945e68fb"
     },
     {
       "FilePath": "system\\VehiclePartsGrp.dat",
@@ -774,11 +769,6 @@
       "FilePath": "system\\Window.int",
       "FileSize": 2337,
       "Sha256Hash": "fb33125c73d7258e7aab9be5f06961ebf907a694eb5f74c2a2c1d166ff1b7243"
-    },
-    {
-      "FilePath": "system\\WindowsInfo.ini",
-      "FileSize": 3091,
-      "Sha256Hash": "efb5670d5cb34addd7799ce75fdf656341ffada34dca6c8d2af6ea1c55a3f9b8"
     },
     {
       "FilePath": "system\\WinDrv.dll",
