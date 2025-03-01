@@ -676,6 +676,11 @@
       "Sha256Hash": "732ee0dc9122c14aab0b65818adfe255ea3c35458e5796d5268e7ac773b534e8"
     },
     {
+      "FilePath": "system\\Option.ini",
+      "FileSize": 1742,
+      "Sha256Hash": "6f3f87afa8890c371ee86209cab5ba7b5352f2917c06f73d3cbcb6f6e3dd8748"
+    },
+    {
       "FilePath": "system\\optiondata_client-e.dat",
       "FileSize": 168624,
       "Sha256Hash": "6668acd9c8c8230d7db80dbb7a516e35ee29a780b2c8a45b0d38e3c60a0a110f"
@@ -831,6 +836,11 @@
       "Sha256Hash": "07e1486d6c212826be3a53fec21d03a4542e488aa4dfd8250864d593c098a0cf"
     },
     {
+      "FilePath": "system\\user.ini",
+      "FileSize": 4912,
+      "Sha256Hash": "6d6fb8e33d3f7e250ebdba56db25834a145100e6301533bdf9891919c7509639"
+    },
+    {
       "FilePath": "system\\UWindow.u",
       "FileSize": 653179,
       "Sha256Hash": "fe6ccce44bd6889152efc07ecbf70090efa5bf05f0b55fe63332340d3382d662"
@@ -884,6 +894,11 @@
       "FilePath": "system\\Window.int",
       "FileSize": 2337,
       "Sha256Hash": "fb33125c73d7258e7aab9be5f06961ebf907a694eb5f74c2a2c1d166ff1b7243"
+    },
+    {
+      "FilePath": "system\\WindowsInfo.ini",
+      "FileSize": 3105,
+      "Sha256Hash": "cfcc4f3aee391c84a0db5138543a85b5de1cc9c407930457bae29dfaed060cbe"
     },
     {
       "FilePath": "system\\WinDrv.dll",
