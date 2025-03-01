@@ -61,6 +61,11 @@
       "Sha256Hash": "d8bf8ee1e737edca634cf583c556613f53167eb8badf90f78842211930ecb9a8"
     },
     {
+      "FilePath": "system\\CheckGrp.log",
+      "FileSize": 246,
+      "Sha256Hash": "086257a665d1376d17286cde039dbdd1050f66b037d26bc8bddc4a5b79127e11"
+    },
+    {
       "FilePath": "system\\ClassInfo-e.dat",
       "FileSize": 2352,
       "Sha256Hash": "e58bf46ff0fdfd1e606a9851016f5cc12edfc925248060db271dffbfbde2e66e"
@@ -262,8 +267,8 @@
     },
     {
       "FilePath": "system\\itemname-e.dat",
-      "FileSize": 545968,
-      "Sha256Hash": "d00b74faaa9e5f845ca2c0f704ef2285d19a20fff60ae0c0c0ae0fa9ec406f49"
+      "FileSize": 547376,
+      "Sha256Hash": "df68aec5082ff6eff58d503cf42da03049997e2431a2469e87ac365d7953c6f3"
     },
     {
       "FilePath": "system\\L2.bin",
@@ -282,8 +287,8 @@
     },
     {
       "FilePath": "system\\L2CompiledShader.bin",
-      "FileSize": 111190,
-      "Sha256Hash": "2e691d84077b34cef8ef72fa4a4f6fdc4f3709b68f6993e854e99597b0353437"
+      "FileSize": 688733,
+      "Sha256Hash": "c3c21f37e0e04016c899030527a7648f1094c3b3bec4937adb41b3cf1ad1c3fe"
     },
     {
       "FilePath": "system\\L2ForecF.ffe",
@@ -294,6 +299,11 @@
       "FilePath": "system\\L2PreCompiledShader.bin",
       "FileSize": 45667,
       "Sha256Hash": "dfccdfd00e991f2d312109d2c38b5a984f37e03662116ef581bac603c1ddcbdb"
+    },
+    {
+      "FilePath": "system\\L2Second.log",
+      "FileSize": 246,
+      "Sha256Hash": "611f86254adad3c275ad04ff71921fefad14d65c61cdea2e345689df2683153c"
     },
     {
       "FilePath": "system\\largefont-e.gly",
@@ -557,8 +567,8 @@
     },
     {
       "FilePath": "system\\Option.ini",
-      "FileSize": 1742,
-      "Sha256Hash": "6f3f87afa8890c371ee86209cab5ba7b5352f2917c06f73d3cbcb6f6e3dd8748"
+      "FileSize": 1737,
+      "Sha256Hash": "004f781d0c95ee74b27d99d17e4704c4ad89a26b7d4e2c8f14221e183f87930c"
     },
     {
       "FilePath": "system\\optiondata_client-e.dat",
@@ -673,7 +683,7 @@
     {
       "FilePath": "system\\s_info.ini",
       "FileSize": 57,
-      "Sha256Hash": "e2e782be71d5ee63e01a38744a21ca4ebf48309dd262e3cab38c939f881ee0ee"
+      "Sha256Hash": "0ac68ee5c8a0754567be1b27a88a04a3f234c93b7f467ca6d3605256a5c299de"
     },
     {
       "FilePath": "system\\TimeEnv0.int",
@@ -718,7 +728,7 @@
     {
       "FilePath": "system\\user.ini",
       "FileSize": 4912,
-      "Sha256Hash": "6d6fb8e33d3f7e250ebdba56db25834a145100e6301533bdf9891919c7509639"
+      "Sha256Hash": "fb190ad4c9ac9b59c935f74534d06e61bed3a059f5da774ecaf0b702ad395b5a"
     },
     {
       "FilePath": "system\\UWindow.u",
@@ -777,8 +787,8 @@
     },
     {
       "FilePath": "system\\WindowsInfo.ini",
-      "FileSize": 3105,
-      "Sha256Hash": "cfcc4f3aee391c84a0db5138543a85b5de1cc9c407930457bae29dfaed060cbe"
+      "FileSize": 3099,
+      "Sha256Hash": "5649b1edc5809ee38347f488787ce0d0b0181febe429fa0dde062ef9dab8c6c4"
     },
     {
       "FilePath": "system\\WinDrv.dll",
