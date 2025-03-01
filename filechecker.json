@@ -1,6 +1,126 @@
 {
   "Files": [
     {
+      "FilePath": "MAPS\\16_19.unr",
+      "FileSize": 7217160,
+      "Sha256Hash": "425e1cbaf9c7c72be111c2a72751ba7236124944fcf237eb43e7309c41d6cdb7"
+    },
+    {
+      "FilePath": "MAPS\\17_10.unr",
+      "FileSize": 5971440,
+      "Sha256Hash": "d7e4f4ee0600031822aaceed44f7df641d979666d4d82de756072dd375f2c3ac"
+    },
+    {
+      "FilePath": "MAPS\\17_22.unr",
+      "FileSize": 7108078,
+      "Sha256Hash": "4a6381d81b2b5adba04a0ea1302694bf43a8817b8781eb03b5295e252522175a"
+    },
+    {
+      "FilePath": "MAPS\\17_25.unr",
+      "FileSize": 5644985,
+      "Sha256Hash": "13a0ec264800574da765eda3bde238680b12972ada6714f21ec38e005a3aab0f"
+    },
+    {
+      "FilePath": "MAPS\\19_19.unr",
+      "FileSize": 4636584,
+      "Sha256Hash": "688a062f0ab03e92946423d38816848afe092e60139832edfc9d1eb54d30d5f4"
+    },
+    {
+      "FilePath": "MAPS\\19_21.unr",
+      "FileSize": 6296899,
+      "Sha256Hash": "2d7288fa5cd5f53af9ee79cfd066ef51067b231d0117621e07c2c777ab656a6f"
+    },
+    {
+      "FilePath": "MAPS\\19_25.unr",
+      "FileSize": 6013516,
+      "Sha256Hash": "9b8c550d75ca332b8ec1f44dc20a047a71df352f668af2652ae26404d07999cc"
+    },
+    {
+      "FilePath": "MAPS\\20_17.unr",
+      "FileSize": 4031822,
+      "Sha256Hash": "6284487d0a935af3893553b4bd95f7689b5e4082da1e1079e6ac8d352ada6eb0"
+    },
+    {
+      "FilePath": "MAPS\\20_18.unr",
+      "FileSize": 5958269,
+      "Sha256Hash": "ffe2558c7c574bd559bca93dcfaf1e9554aa222b4613c7441e5cfcc84355ffae"
+    },
+    {
+      "FilePath": "MAPS\\20_22.unr",
+      "FileSize": 7566299,
+      "Sha256Hash": "27c56bd7f558bbde755415753f832092ea2c22f80cc623b065c84c3d95959ea1"
+    },
+    {
+      "FilePath": "MAPS\\21_16.unr",
+      "FileSize": 9504567,
+      "Sha256Hash": "f0944ba19889b71ead1baa34827e91d44546f6969a12f20bbcb347b1f35c9705"
+    },
+    {
+      "FilePath": "MAPS\\21_19.unr",
+      "FileSize": 5954077,
+      "Sha256Hash": "4e1e691341648748c81128c329a0e8fe6d9144d19ceabdb2bb36de1c01327f33"
+    },
+    {
+      "FilePath": "MAPS\\21_23.unr",
+      "FileSize": 16832028,
+      "Sha256Hash": "0dfc6943329f6a74fb0fc18151e7390ab47fb56b85e9706a53dff4adefb72368"
+    },
+    {
+      "FilePath": "MAPS\\22_19.unr",
+      "FileSize": 9432632,
+      "Sha256Hash": "27a1d29867003d2a4d69c4df691bfd4881b0d0fc9f9a85e862f0e9b4595888b3"
+    },
+    {
+      "FilePath": "MAPS\\22_21.unr",
+      "FileSize": 3346682,
+      "Sha256Hash": "54b74ec2a455297d9a5a4ef7c935c407782844903d30e68fe3df43569b1d3c75"
+    },
+    {
+      "FilePath": "MAPS\\22_22.unr",
+      "FileSize": 7306399,
+      "Sha256Hash": "308f6ea7ddb08e48a1916ae77877d03a76c0f202c2109fb0463cfc829a2183d0"
+    },
+    {
+      "FilePath": "MAPS\\23_12.unr",
+      "FileSize": 5139089,
+      "Sha256Hash": "21b363950dd617c3741b0905231468c82f9276f22a49a14f48591b2f98086345"
+    },
+    {
+      "FilePath": "MAPS\\23_20.unr",
+      "FileSize": 6700068,
+      "Sha256Hash": "eac96b5e89f05a08ba511723e273f245f8d78e200c723d586292ffca4d37d544"
+    },
+    {
+      "FilePath": "MAPS\\23_21.unr",
+      "FileSize": 5371127,
+      "Sha256Hash": "49a392bee9fd5c419e5e2bc55d013ebf1c827332e1e3877b38badba5588773db"
+    },
+    {
+      "FilePath": "MAPS\\23_24.unr",
+      "FileSize": 7642040,
+      "Sha256Hash": "4186c380e13c0f03c536c488b2ffd4eccc451f0a9fd5a199e6afc1488cd94ae9"
+    },
+    {
+      "FilePath": "MAPS\\24_18.unr",
+      "FileSize": 7590640,
+      "Sha256Hash": "f27e6447f9fc256b2e329540265cf706c8628a733745b8ea1294420c3b5d16d8"
+    },
+    {
+      "FilePath": "MAPS\\24_23.unr",
+      "FileSize": 6159270,
+      "Sha256Hash": "db8d1e54b6e9b55c3df9bd7dc246e0635fbaf7fd362cca8fa69f7053c92acdfb"
+    },
+    {
+      "FilePath": "MAPS\\25_19.unr",
+      "FileSize": 9849462,
+      "Sha256Hash": "174d19fd04bc3d83e128bac03bf6f6f01644d96fcf6110ef2013be3380ae0cfa"
+    },
+    {
+      "FilePath": "MAPS\\SkyLevel.unr",
+      "FileSize": 200319,
+      "Sha256Hash": "e0decfac0eb734f18ddbad8ea6e5f9da9bb1e65b6e5a9ee5cbf7c64414169354"
+    },
+    {
       "FilePath": "system\\ActionName-e.dat",
       "FileSize": 10544,
       "Sha256Hash": "771087ec1b5d7c1cb1e333bc55e270d14eca9b60c6f49be6135cfb3b93ace777"
@@ -672,23 +792,23 @@
     },
     {
       "FilePath": "system\\TimeEnv0.int",
-      "FileSize": 25208,
-      "Sha256Hash": "520f286a5b55af7b08eb9eb26df5c2d1c27fdfc96e9f33f60a19a44bba9e965a"
+      "FileSize": 13233,
+      "Sha256Hash": "99fe1d3c71298a03f22d1d9491600e3cec89e0934e56b67a50c8afec08cfae54"
     },
     {
       "FilePath": "system\\TimeEnv1.int",
-      "FileSize": 26359,
-      "Sha256Hash": "4bfad091ae2e938b8b240f8ad0cd6a23600d495a1503ba25ae9e2f20d82145e3"
+      "FileSize": 14452,
+      "Sha256Hash": "992a4f473b9dc2e0329c54f76dc32e70abceb61f5fbe04d131bcf46b1c32c3aa"
     },
     {
       "FilePath": "system\\TimeEnv2.int",
-      "FileSize": 25196,
-      "Sha256Hash": "a7d68b713206c0fd1a71af3fcf06ec2d90b619080d1bf645d6fe66323c137e77"
+      "FileSize": 13322,
+      "Sha256Hash": "9a05072f521557d26d1a21dec6effd30e989f5515359f785f361909dd7b13ce3"
     },
     {
       "FilePath": "system\\TimeEnv3.int",
-      "FileSize": 26021,
-      "Sha256Hash": "76f42733f4e14cab96cb577d97825c857b0a5ed17a5297a7dcbb21901f211b35"
+      "FileSize": 14099,
+      "Sha256Hash": "55a9fe7e8cb80c7e88896d07aa1ace925b6fb3d884ca26308da282eb03e3eeee"
     },
     {
       "FilePath": "system\\transformdata.dat",
@@ -784,6 +904,11 @@
       "FilePath": "system\\zonename-e.dat",
       "FileSize": 8752,
       "Sha256Hash": "42da8270101a80e5f74d0ad93c5537f2348b91592bd462284746248f1178dc6e"
+    },
+    {
+      "FilePath": "Textures\\BG_Effect_T.utx",
+      "FileSize": 2798383,
+      "Sha256Hash": "6ae1d36a5967bb9964174907f9930aed0832b8f01bf3db5da9e79f3e2eb618ff"
     }
   ]
 }
