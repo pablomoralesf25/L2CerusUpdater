@@ -1,11 +1,6 @@
 {
   "Files": [
     {
-      "FilePath": "MAPS\\SkyLevel.unr",
-      "FileSize": 200319,
-      "Sha256Hash": "e0decfac0eb734f18ddbad8ea6e5f9da9bb1e65b6e5a9ee5cbf7c64414169354"
-    },
-    {
       "FilePath": "system\\ActionName-e.dat",
       "FileSize": 10544,
       "Sha256Hash": "771087ec1b5d7c1cb1e333bc55e270d14eca9b60c6f49be6135cfb3b93ace777"
